@@ -59,6 +59,7 @@ Find statistical numbers
 #### 3.1.2) EDA
 Find the relationship between each variable and customer churn rate:
 **Age variable**:
+
 ![Age variable.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/496e6b38f9e8a5f6a976a69bc4e3083ed6e8cba3/Images/Age%20variable.png)
 
 A majority of the churned customers fall within the 45 to 65 age range.
@@ -66,6 +67,7 @@ Among all the ages, 56-year-olds have the highest ratio of churned customers.
 The age of 84 stands out with an unusually high rate of churn, which occurs due to the limited number of customers within this age bracket. Specifically, there are only two 84-year-old customers, and one of them churning results in a churn rate of 50% at age=84.
 
 **Tenure**: Our objective is to determine the credit score ratio between customers who leave and customers who stay, categorized by years of customer service.
+
 ![Tenure.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/496e6b38f9e8a5f6a976a69bc4e3083ed6e8cba3/Images/Tenure.png)
 
 
@@ -105,13 +107,13 @@ Evaluating the prediction depends on Accuracy Score.
 
 ## 4) Final result:
 **After run the data through various models we end up with the following results**:
+
 ![DecisionTree.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/DecisionTree.png)
 
-![LogisticRegression.png](Lhttps://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/LogisticRegression.png)
+![LogisticRegression.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/LogisticRegression.png)
 
 ![RandomForest.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/RandomForest.png)
 
-![LogisticRegression.png](Lhttps://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/LogisticRegression.png)
 
 
 As RandomForest model gave the best results, it will be selected as the final result of this project.
