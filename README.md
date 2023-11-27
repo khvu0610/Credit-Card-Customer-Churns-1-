@@ -19,9 +19,11 @@ Is there any patterns/preference in Churn Customers based on whether or not cust
 Many more questions that will arise during the analysis.
 
 ## 2) Data source:
-Data: Customer Churn Prediction
-Shape: 14 columns, 10000 entries
-Attribute:
+**Data**: Customer Churn Prediction
+
+**Shape**: 14 columns, 10000 entries
+
+**Attribute**:
 
 **RowNumber**—corresponds to the record (row) number and has no effect on the output.
 
@@ -58,6 +60,7 @@ Looking for null variables
 Find statistical numbers 
 #### 3.1.2) EDA
 Find the relationship between each variable and customer churn rate:
+
 **Age variable**:
 
 ![Age variable.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/496e6b38f9e8a5f6a976a69bc4e3083ed6e8cba3/Images/Age%20variable.png)
