@@ -123,11 +123,13 @@ As RandomForest model gave the best results, it will be selected as the final re
 
 ## 5) Conclusion:
 In the case of imbalanced datasets, the Accuracy Score may not be the most reliable measure to assess model performance due to differences in the sample distribution between the training set and actual data. Instead, metrics such as Recall, f1 Score, and ROC curve, are more appropriate to evaluate an imbalanced dataset.
+
 Based on the analysis, the following insights can be drawn:
-Customer variability was not influenced by the HasCrcard variable.
-German customers exhibit a high churn rate.
-Customers who use 3 to 4 products are more likely to discontinue their relationship with the bank.
-Customers who have been using the service for less than one year or over ten years are less represented than in other time periods.
-Customers between the ages of 40 and 65 are more prone to leaving banks.
-Individuals with credit scores ranging from 600 to 700 display elevated churn rates.
+- Customer variability was not influenced by the HasCrcard variable.
+- German customers exhibit a high churn rate.
+- Customers who use 3 to 4 products are more likely to discontinue their relationship with the bank.
+- Customers who have been using the service for less than one year or over ten years are less represented than in other time periods.
+- Customers between the ages of 40 and 65 are more prone to leaving banks.
+- Individuals with credit scores ranging from 600 to 700 display elevated churn rates.
+
 The predictions were generated using four classification models, with RandomForest yielding the highest f1 score.
