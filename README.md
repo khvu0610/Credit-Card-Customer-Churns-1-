@@ -72,24 +72,28 @@ The age of 84 stands out with an unusually high rate of churn, which occurs due 
 The figure displays the credit score ratio between customers who churn and those who stay, categorized by the number of years they have been with the company.
 Based on our analysis, customers who have used the service for either less than a year or 10 years have a smaller representation than other tenures. Moreover, our churn rate appears to fluctuate around 20%, with the lowest rate of 17% observed for customers with a tenure of 7.
 **Geography vs gender**: 
+
 ![Geography vs gender (1).png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/Geography%20vs%20gender%20(1).png)
 
 
 Our proposed plan is to showcase how customers utilize our service, categorized by region and gender, respectively.
 In general, females exhibit a higher rate of churning. Furthermore, females in France and Germany demonstrate the highest percentage of churning.
+
 ![Geography vs gender (2).png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/Geography%20vs%20gender%20(2).png)
 
 Among the inactive group, the percentage of inactive male customers is the highest in France. It could be attributed to their significant number of records, coupled with a higher churn rate among female customers.
 Despite having the least number of records, Germany still exhibits a high churn rate.
 
-
 **“Numbers of products” by “Exited” and “Geography”**:
+
 ![“Numbers of products” by “Exited” and “Geography” (1).png
 ](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/%E2%80%9CNumbers%20of%20products%E2%80%9D%20by%20%E2%80%9CExited%E2%80%9D%20and%20%E2%80%9CGeography%E2%80%9D%20(1).png)
 
 It appears that customers who utilize four products tend to churn across all three countries. Notably, most customers primarily use one or two products.
 Furthermore, the number of customers with 1, 2, and 3 products in Germany and Spain is approximately half of those in France.
+
 ![“Numbers of products” by “Exited” and “Geography” (2).png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/%E2%80%9CNumbers%20of%20products%E2%80%9D%20by%20%E2%80%9CExited%E2%80%9D%20and%20%E2%80%9CGeography%E2%80%9D%20(2).png)
+
 According to the graph, it appears that Germany and France have a similar number of churn customers, with a higher number of churns occurring at NumOfProduct=1. This indicates that Germany has a substantially higher churn rate.
 
 #### 3.1.3) Model
