@@ -71,6 +71,7 @@ The age of 84 stands out with an unusually high rate of churn, which occurs due 
 
 The figure displays the credit score ratio between customers who churn and those who stay, categorized by the number of years they have been with the company.
 Based on our analysis, customers who have used the service for either less than a year or 10 years have a smaller representation than other tenures. Moreover, our churn rate appears to fluctuate around 20%, with the lowest rate of 17% observed for customers with a tenure of 7.
+
 **Geography vs gender**: 
 
 ![Geography vs gender (1).png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/Geography%20vs%20gender%20(1).png)
@@ -109,6 +110,8 @@ Evaluating the prediction depends on Accuracy Score.
 ![LogisticRegression.png](Lhttps://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/LogisticRegression.png)
 
 ![RandomForest.png](https://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/RandomForest.png)
+
+![LogisticRegression.png](Lhttps://github.com/khvu0610/Credit-Card-Customer-Churns-1-/blob/9b74249cdac38a1012f17c0423df3ac3f3e8888c/Images/LogisticRegression.png)
 
 
 As RandomForest model gave the best results, it will be selected as the final result of this project.
