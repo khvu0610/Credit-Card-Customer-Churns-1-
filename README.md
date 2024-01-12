@@ -9,14 +9,20 @@ Customer churn is a critical metric because it is much less expensive to retain 
 
 ### 1.2) Research objectives:
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
+
 To detect early signs of potential churn, one must first develop a holistic view of the customers and their interactions across numerous channels, including CreditScore Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, to mention a few.
+
 As a result, by addressing churn, these businesses may not only preserve their market position, but also grow and thrive. More customers they have in their network, the lower the cost of initiation and the larger the profit. As a result, the company's key focus for success is reducing client attrition and implementing effective retention strategy.
 ### 1.3) Research questions: 
 
 We will explore the data and try to answer some questions like:
+
 What's the % of Churn Customers and customers that keep in with the active services?
+
 Are there any patterns in Churn Customers based on each of the attributes?
+
 Is there any patterns/preference in Churn Customers based on whether or not customers have a credit card?
+
 Many more questions that will arise during the analysis.
 
 ## 2) Data source:
